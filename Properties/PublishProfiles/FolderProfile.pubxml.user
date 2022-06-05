@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Z Repsaldo\Aplicacion\TheCapitalBurguer\TheCapitalBurguer\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-08-16T20:33:21.9661880Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AppConnection">
+      <Value>data source= LAPTOP-96DRR7OA%3binitial catalog= TheCapitalBurguer%3buser id=sa%3bpassword=Topostroy3r</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="TheCapitalBurguer.Models.AppDbContext">
+      <Value>data source= LAPTOP-96DRR7OA%3binitial catalog= TheCapitalBurguer%3buser id=sa%3bpassword=Topostroy3r</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
