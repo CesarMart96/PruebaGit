@@ -17,7 +17,7 @@ namespace TheCapitalBurguer.Models
         [StringLength(100)]
         public string Nombre { get; set; }
 
-        public string Ingrediente { get; set; }
+        public string Ingredientes { get; set; }
 
         public string Tamaño { get; set; }
         [Column(TypeName = "decimal(6, 2)")]
