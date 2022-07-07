@@ -9,6 +9,7 @@ namespace TheCapitalBurguer.Models
     public partial class AppDbContext : DbContext
     {
         public AppDbContext()
+        
         {
         }
 
